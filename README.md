@@ -48,6 +48,7 @@ This project strengthened my understanding of:
 ---
 
 # 📸 Dashboard Preview
+![image_alt](https://github.com/addy850/META-AD-PERFOMANCE-DASHBOARD-POWER-BI/blob/main/Screenshot%202025-11-06%20035857.png?raw=true)
 
  
 
